@@ -1,0 +1,1 @@
+console.log("Đừng nghèo nữa")
